@@ -1,4 +1,4 @@
-# Seating_Chart
+# Optimizing a Wedding Reception Seating Chart Using a Genetic Algorithm
 
 This code uses a genetic algorithm to optimize a wedding reception seating chart based on how closely related the wedding guests are to each other. I chose to use the following key to determine closeness, although this can be modified to the author's preferences.
 
